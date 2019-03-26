@@ -26,6 +26,11 @@
     Below are images
     
     ![Sprint two](/pics/spinttwo.png)
+    
+    ![Sprint two](/pics/sprint2.png)
+    ![Sprint two](/pics/trello.png)
+    ![Sprint two](/pics/trello1.png)
+    
 
 3. Sprint 3: Project manager
 * Sprint 3, was a very short sprint since it felt very rushed. Being project manger I had to make sure that are tasks were short and simple because we did not have enough time to 
@@ -38,3 +43,7 @@ accomplish the large tasks we needed. I listened to the individuals in our group
 	 a midterm report as well. I made two reports just to outline what our team has accomplished. This will give us an idea of what we have left to do in the second half of the semester. 
 	 So our group midterm report will allow our group to access what we as a group have accomplished.
 Below are images
+![Sprint Three](/pics/sprinttres.png)
+![Sprint Three](/pics/sprint three.png)
+![Sprint Three](/pics/sprintthree.png)
+![Sprint Three](/pics/sprint3.png)
