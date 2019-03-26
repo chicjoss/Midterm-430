@@ -25,7 +25,7 @@
     Sprint 2 was a milestone for me because I felt like I was learning more and understanding the project more.  
     Below are images
     
-    
+    ![Sprint two](../../pics/spinttwo.png)
 
 3. Sprint 3: Project manager
 * Sprint 3, was a very short sprint since it felt very rushed. Being project manger I had to make sure that are tasks were short and simple because we did not have enough time to 
